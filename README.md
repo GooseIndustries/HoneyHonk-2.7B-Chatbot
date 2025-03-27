@@ -33,7 +33,7 @@ Troubleshooting tips:
 
 HoneyHonk slow or crashing? 
 
-This model is huge, like, massive (great, now we're gonna get a buncha brainrotted kids saying "wanna know what else is massive?" and spamming lowtaperfade memes) so it might be slow on lower end hardware (but if they can send a man to the moon with 2 kilobytes of RAM, Goose Industries can do something with 4 gigabytes) so DO IT.
+This model is huge, like, massive (great, now we're gonna get a buncha brainrotted kids saying "wanna know what else is massive?" and spamming lowtaperfade memes) so it might be slow on lower end hardware but you should be able to do it cuz if they can send a man to the moon with 2 kilobytes of RAM we can develop and test AI with 4 GIGABYTES of RAM. so suck it up and RUN IT.
 
 Python cant find HoneyHonk27b.py? 
 
